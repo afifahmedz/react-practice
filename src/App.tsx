@@ -1,4 +1,4 @@
-
+import About from './about'
 import './App.css'
 
 function App() {
@@ -6,6 +6,8 @@ function App() {
 
   return (
     <>
+    <About></About>
+
     </>
   )
 }
